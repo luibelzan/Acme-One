@@ -13,13 +13,8 @@ who have enrolled in the Design and Testing subject of the Software Engineering 
 Sevilla University. This project helps them get started on their new information system.
 Projects. 
 
-In this case, this project will be used by working group No. 22. 
+In this case, this project will be used by working group No. 12. 
 
 Members: 
 
 Bellido Zancarrón, Luis Miguel
-Diaz Fernandez, Marta
-Gálvez Dorado, César
-Grosso Gómez de Terreros, Javier
-Rodriguez Camino, Diego Miguel
-Rodríguez Osorio, Marcos
